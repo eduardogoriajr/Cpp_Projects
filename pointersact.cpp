@@ -84,8 +84,7 @@ int main() {
         cin.ignore();
         cout << endl;
 
-    } while (again == 'Y' || again == 'y');
+    } while (again == 'Y');
 
     return 0;
 }
-
