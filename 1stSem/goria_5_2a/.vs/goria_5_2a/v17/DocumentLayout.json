@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\goria_5_2a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCEB319-A33F-442E-8F69-27938561765A}|goria_5_2a\\goria_5_2a.vcxproj|C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\goria_5_2a\\goria_5_2a\\goria_5_2a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CCEB319-A33F-442E-8F69-27938561765A}|goria_5_2a\\goria_5_2a.vcxproj|solutionrelative:goria_5_2a\\goria_5_2a.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "goria_5_2a.cpp",
+              "DocumentMoniker": "C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\goria_5_2a\\goria_5_2a\\goria_5_2a.cpp",
+              "RelativeDocumentMoniker": "goria_5_2a\\goria_5_2a.cpp",
+              "ToolTip": "C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\goria_5_2a\\goria_5_2a\\goria_5_2a.cpp",
+              "RelativeToolTip": "goria_5_2a\\goria_5_2a.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-11T06:50:24.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

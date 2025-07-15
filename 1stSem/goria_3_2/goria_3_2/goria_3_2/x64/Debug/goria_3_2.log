@@ -1,0 +1,3 @@
+﻿  goria_3_2.cpp
+C:\Users\YoshinoPort\source\repos\goria_3_2\goria_3_2\goria_3_2.cpp(9,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+  goria_3_2.vcxproj -> C:\Users\YoshinoPort\source\repos\goria_3_2\goria_3_2\x64\Debug\goria_3_2.exe

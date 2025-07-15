@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\WelcometoCPP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5FB1964-D119-439F-A13D-D60C95489347}|WelcometoCPP\\WelcometoCPP.vcxproj|C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\WelcometoCPP\\WelcometoCPP\\WelcometoCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5FB1964-D119-439F-A13D-D60C95489347}|WelcometoCPP\\WelcometoCPP.vcxproj|solutionrelative:WelcometoCPP\\WelcometoCPP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcometoCPP.cpp",
+              "DocumentMoniker": "C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\WelcometoCPP\\WelcometoCPP\\WelcometoCPP.cpp",
+              "RelativeDocumentMoniker": "WelcometoCPP\\WelcometoCPP.cpp",
+              "ToolTip": "C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\WelcometoCPP\\WelcometoCPP\\WelcometoCPP.cpp",
+              "RelativeToolTip": "WelcometoCPP\\WelcometoCPP.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-23T05:16:39.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

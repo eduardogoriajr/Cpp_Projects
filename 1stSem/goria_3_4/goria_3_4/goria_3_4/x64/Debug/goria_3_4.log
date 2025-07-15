@@ -1,0 +1,9 @@
+﻿  goria_3_4.cpp
+C:\Users\YoshinoPort\source\repos\goria_3_4\goria_3_4\goria_3_4.cpp(8,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\YoshinoPort\source\repos\goria_3_4\goria_3_4\goria_3_4.cpp(13,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\YoshinoPort\source\repos\goria_3_4\goria_3_4\goria_3_4.cpp(16,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\YoshinoPort\source\repos\goria_3_4\goria_3_4\goria_3_4.cpp(19,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\YoshinoPort\source\repos\goria_3_4\goria_3_4\goria_3_4.cpp(22,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\YoshinoPort\source\repos\goria_3_4\goria_3_4\goria_3_4.cpp(25,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\YoshinoPort\source\repos\goria_3_4\goria_3_4\goria_3_4.cpp(28,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  goria_3_4.vcxproj -> C:\Users\YoshinoPort\source\repos\goria_3_4\goria_3_4\x64\Debug\goria_3_4.exe

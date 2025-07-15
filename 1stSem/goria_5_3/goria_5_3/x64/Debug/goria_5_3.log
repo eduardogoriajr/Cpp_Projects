@@ -1,0 +1,4 @@
+﻿  goria_5_3.cpp
+C:\Users\YoshinoPC\OneDrive\Code\Github\VS CODE\VS C++\goria_5_3\goria_5_3\goria_5_3.cpp(7,26): warning C4101: 'total': unreferenced local variable
+C:\Users\YoshinoPC\OneDrive\Code\Github\VS CODE\VS C++\goria_5_3\goria_5_3\goria_5_3.cpp(7,18): warning C4101: 'income': unreferenced local variable
+  goria_5_3.vcxproj -> C:\Users\YoshinoPC\OneDrive\Code\Github\VS CODE\VS C++\goria_5_3\x64\Debug\goria_5_3.exe

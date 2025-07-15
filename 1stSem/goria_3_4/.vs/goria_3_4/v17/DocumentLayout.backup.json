@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YoshinoPort\\source\\repos\\goria_3_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B15849C-7D09-45B2-85E9-D67C29CB3833}|goria_3_4\\goria_3_4.vcxproj|C:\\Users\\YoshinoPort\\source\\repos\\goria_3_4\\goria_3_4\\goria_3_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B15849C-7D09-45B2-85E9-D67C29CB3833}|goria_3_4\\goria_3_4.vcxproj|solutionrelative:goria_3_4\\goria_3_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "goria_3_4.cpp",
+              "DocumentMoniker": "C:\\Users\\YoshinoPort\\source\\repos\\goria_3_4\\goria_3_4\\goria_3_4.cpp",
+              "RelativeDocumentMoniker": "goria_3_4\\goria_3_4.cpp",
+              "ToolTip": "C:\\Users\\YoshinoPort\\source\\repos\\goria_3_4\\goria_3_4\\goria_3_4.cpp",
+              "RelativeToolTip": "goria_3_4\\goria_3_4.cpp",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-03T08:20:21.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

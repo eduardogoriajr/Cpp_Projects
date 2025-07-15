@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\CCS0003L_Final_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{793E2C24-2CAC-4AB8-8EE1-7DAF3141564E}|CCS0003L_Final_Project\\CCS0003L_Final_Project.vcxproj|C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\CCS0003L_Final_Project\\CCS0003L_Final_Project\\CCS0003L_Final_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{793E2C24-2CAC-4AB8-8EE1-7DAF3141564E}|CCS0003L_Final_Project\\CCS0003L_Final_Project.vcxproj|solutionrelative:CCS0003L_Final_Project\\CCS0003L_Final_Project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CCS0003L_Final_Project.cpp",
+              "DocumentMoniker": "C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\CCS0003L_Final_Project\\CCS0003L_Final_Project\\CCS0003L_Final_Project.cpp",
+              "RelativeDocumentMoniker": "CCS0003L_Final_Project\\CCS0003L_Final_Project.cpp",
+              "ToolTip": "C:\\Users\\YoshinoPC\\OneDrive\\Code\\Github\\VS CODE\\VS C\u002B\u002B\\CCS0003L_Final_Project\\CCS0003L_Final_Project\\CCS0003L_Final_Project.cpp",
+              "RelativeToolTip": "CCS0003L_Final_Project\\CCS0003L_Final_Project.cpp",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwM0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T19:51:53.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
